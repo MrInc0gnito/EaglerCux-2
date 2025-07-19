@@ -5,7 +5,8 @@
 ## Watch Zepr's video on EaglerCux v2 to learn how to setup your server!
 
 ## Setup
-To make sure that you get EaglerCux ready, you need to navigate to the folder with the EaglerCux ZIP in it
+1. Enable GDrive Access
+2. Navigate to the EaglerCux folder, for the video enter this ```cd drive/MyDrive/eaglercux```
 
 ## Installing Java
 ```bash
