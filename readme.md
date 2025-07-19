@@ -56,4 +56,4 @@ python main.py
 
 2.) then type "op username" without "" and change the username to yours
 
-> Based on EaglerXVelocity by: [IsmaelTech](https://www.youtube.com/@ismaeltechI)
+> Based on EagColab by: [ATypicalPotato]([https://www.youtube.com/@ismaeltechI](https://www.youtube.com/@ATypicalPotato))
