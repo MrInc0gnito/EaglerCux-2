@@ -1,6 +1,7 @@
 # EaglerCux
 > [!IMPORTANT]
 > Follow the step by step to use EaglerCux v2
+> Make sure to run "restart.sh" instead of "start.sh" for future starts after the first!!!
 
 ## Watch Zepr's video on EaglerCux v2 to learn how to setup your server!
 
