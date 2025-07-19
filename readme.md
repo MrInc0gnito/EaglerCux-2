@@ -4,6 +4,7 @@
 > Make sure to run "restart.sh" instead of "start.sh" for future starts after the first!!!
 
 ## Watch Zepr's video on EaglerCux v2 to learn how to setup your server!
+```PASSWORD: 17832```
 
 ## Setup
 1. Enable GDrive Access
