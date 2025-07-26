@@ -15,4 +15,5 @@
 4. Navigate into the folder: ```cd EaglerCux-2-main```
 5. To finish the setup, run EaglerCux: ```bash eaglercux.sh```
 
-> Based on EagColab by: [ATypicalPotato](https://www.youtube.com/@ATypicalPotato)
+> Based on EagColab by: [ATypicalPotato](https://www.youtube.com/@ATypicalPotato) and [wadwdwd](https://github.com/wadwdwd1/)
+> 
